@@ -1,0 +1,14 @@
+C:\Users\Armando\source\repos\masglobal\BLL\bin\Release\netstandard2.0\BLL.deps.json
+C:\Users\Armando\source\repos\masglobal\BLL\bin\Release\netstandard2.0\BLL.dll
+C:\Users\Armando\source\repos\masglobal\BLL\bin\Release\netstandard2.0\BLL.pdb
+C:\Users\Armando\source\repos\masglobal\BLL\bin\Release\netstandard2.0\DAL.dll
+C:\Users\Armando\source\repos\masglobal\BLL\bin\Release\netstandard2.0\DTO.dll
+C:\Users\Armando\source\repos\masglobal\BLL\bin\Release\netstandard2.0\DAL.pdb
+C:\Users\Armando\source\repos\masglobal\BLL\bin\Release\netstandard2.0\DTO.pdb
+C:\Users\Armando\source\repos\masglobal\BLL\obj\Release\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\Armando\source\repos\masglobal\BLL\obj\Release\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\masglobal\BLL\obj\Release\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Armando\source\repos\masglobal\BLL\obj\Release\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\Armando\source\repos\masglobal\BLL\obj\Release\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\Armando\source\repos\masglobal\BLL\obj\Release\netstandard2.0\BLL.dll
+C:\Users\Armando\source\repos\masglobal\BLL\obj\Release\netstandard2.0\BLL.pdb

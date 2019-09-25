@@ -1,0 +1,9 @@
+C:\Users\Armando\source\repos\masglobal\DTO\bin\Debug\netstandard2.0\DTO.deps.json
+C:\Users\Armando\source\repos\masglobal\DTO\bin\Debug\netstandard2.0\DTO.dll
+C:\Users\Armando\source\repos\masglobal\DTO\bin\Debug\netstandard2.0\DTO.pdb
+C:\Users\Armando\source\repos\masglobal\DTO\obj\Debug\netstandard2.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Armando\source\repos\masglobal\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Armando\source\repos\masglobal\DTO\obj\Debug\netstandard2.0\DTO.AssemblyInfo.cs
+C:\Users\Armando\source\repos\masglobal\DTO\obj\Debug\netstandard2.0\DTO.dll
+C:\Users\Armando\source\repos\masglobal\DTO\obj\Debug\netstandard2.0\DTO.pdb
+C:\Users\Armando\source\repos\masglobal\DTO\obj\Debug\netstandard2.0\DTO.csprojAssemblyReference.cache
